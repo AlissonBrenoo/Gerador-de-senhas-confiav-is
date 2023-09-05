@@ -9,13 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@trybe/eslint-config-frontend": "^1.11.3",
-    "clipboard-copy": "^4.0.1",
-    "nanoid": "^4.0.2",
+    "validator": "^13.9.0",
     "vite": "^4.3.9"
   },
   "type": "module",
   "devDependencies": {
-    "eslint": "^8.43.0"
+    "@trybe/eslint-config-frontend": "^1.11.4",
+    "clipboard-copy": "^4.0.1",
+    "eslint": "^8.43.0",
+    "nanoid": "^4.0.2",
+    "vite": "^4.3.9"
   }
 }
